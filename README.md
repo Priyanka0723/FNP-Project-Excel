@@ -280,7 +280,6 @@ This would help identify which products and locations are not only generating re
 - **Microsoft Excel** – Data preparation and analysis
 - **Power Query** – Data cleaning and transformation
 - **Power Pivot / Data Model** – Data modeling and calculations
-- **Power BI** – Interactive dashboard development and visualization
 
 ---
 
