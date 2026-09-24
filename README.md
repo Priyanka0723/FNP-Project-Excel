@@ -39,7 +39,7 @@ The analysis covers **1,000 orders generating approximately ₹35.21 lakh in rev
 
 ## 📈 Dashboard Overview
 
-The Power BI dashboard contains multiple views to understand different aspects of sales performance.
+![Project Screenshot](https://github.com/Priyanka0723/FNP-Project-Excel/blob/20b2454c50405a71949e63c3b535d84ebaaa7abf/Screenshot%202026-09-24%20105123.png)
 
 ### 1. Revenue by Location
 
